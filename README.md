@@ -38,7 +38,7 @@ python run_demo.py arch
 ## Structure du projet
 
 ```
-emsdn_prototype/
+Prototype_Alog/
 ├── run_demo.py                        # Point d'entrée principal
 ├── requirements.txt
 │
