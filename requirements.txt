@@ -1,0 +1,4 @@
+# EMSDN Prototype - Python dependencies
+# All standard library + these lightweight packages
+colorama>=0.4.6       # colored terminal output
+tabulate>=0.9.0       # formatted tables in benchmark output
